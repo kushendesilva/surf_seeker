@@ -1,0 +1,28 @@
+{
+    "locations": [
+        {
+            "name": "Example Beach",
+            "imageURL": "assets/images/image.jpg",
+            "city": "Colombo",
+            "price": 10
+        },
+        {
+            "name": "Example Beach",
+            "imageURL": "assets/images/image.jpg",
+            "city": "Negombo",
+            "price": 40
+        },
+        {
+            "name": "Example Beach",
+            "imageURL": "assets/images/image.jpg",
+            "city": "Galle",
+            "price": 50
+        },
+        {
+            "name": "Example Beach",
+            "imageURL": "assets/images/image.jpg",
+            "city": "Galle",
+            "price": 100
+        }
+    ]
+}
